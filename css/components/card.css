@@ -1,0 +1,31 @@
+.product-cards {
+  width: 900px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.cards {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  background: white;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  width: 250px;
+}
+
+.card img {
+  width: 130px;
+  height: 130px;
+}
+
+.card h3 {
+  padding-top: 0px;
+}
+
+.card p {
+  padding: 10px 40px 20px 40px;
+  color: #808080;
+}

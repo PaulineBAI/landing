@@ -1,0 +1,20 @@
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../../images/background.png");
+  height: 600px;
+  color: white;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.introduction {
+  position: absolute;
+  left: 300px;
+}
+
+.introduction p {
+  font-size: 20px;
+  color: #B2B3B4;
+  padding-bottom: 15px;
+}
